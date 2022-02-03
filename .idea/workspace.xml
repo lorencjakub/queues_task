@@ -2,14 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="95b8adb0-8111-4bb2-931c-1e73552f4730" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lines_task/lines/static/lines/stylesheet.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lines_task/lines/templates/lines/homepage.html" beforeDir="false" afterPath="$PROJECT_DIR$/lines_task/lines/templates/lines/homepage.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lines_task/lines/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/lines_task/lines/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lines_task/lines/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/lines_task/lines/views.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lines_task/lines_task/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/lines_task/lines_task/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lines_task/static/css/stylesheet.css" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/queues_task.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
