@@ -1,6 +1,8 @@
 @echo off
 if exist venv\ (
-  echo
+  .\venv\Scripts\activate
+  cd lines_task
+  py manage.py runserver
 ) else (
   echo No VENV, give me a second...
   py -m venv venv
