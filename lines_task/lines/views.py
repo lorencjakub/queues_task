@@ -14,7 +14,7 @@ def time_tracker() -> str:
 
 
 def log_watcher(message: str, log_action: str, init: bool = False) -> None:
-    with open(BASE_DIR + "/log.txt", log_action) as log:
+    with open(BASE_DIR + "/log.txt", log_action, encoding="utf-8") as log:
         if init:
             log.write(str(message))
 
